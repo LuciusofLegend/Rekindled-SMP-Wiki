@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Amethyst SMP'
+project = 'Rekindled SMP Wiki'
 copyright = '2023, LuciusofLegend'
 author = 'LuciusofLegend'
 
