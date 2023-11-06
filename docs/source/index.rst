@@ -1,14 +1,14 @@
-Amethyst SMP Wiki
+Rekindled SMP Wiki
 ==================
 
-This wiki details all the various mods and tweaks on the Amethyst SMP.
+This wiki details all the various mods and tweaks on the Rekindled SMP.
 The features are broken up into four categories:  Items, Players, Mobs, Blocks.
 
 If you find a feature not documented here, feel free to contact the server owner about the inconsistency.
 
 .. note::
 
-   There is no information on how to join the server on this wiki.  Amethyst SMP is private and invite only.
+   There is no information on how to join the server on this wiki.  Rekindled SMP is private and invite only.
 
 .. note::
 
