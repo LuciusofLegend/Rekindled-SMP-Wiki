@@ -1,4 +1,4 @@
-Amethyst SMP Wiki
+Rekindled SMP Wiki
 =======================================
 
 This GitHub repository contains the Read the Docs source files for the wiki.
