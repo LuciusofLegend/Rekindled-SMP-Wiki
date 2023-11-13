@@ -31,13 +31,14 @@ New Recipes
 
 * Chorus Flower:  Crafted from any flower and a Dragon's Breath
 * Chorus Fruit:  Crafted from an Apple and a Dragon's Breath
+* Shulker Box:  Crafted from a chest surrounded by Popped Chorus Fruit
 * Slimeball:  Crafted from Honey and Green Dye
 
 
 Totem of Life
 ^^^^^^^^^^^^^^
 
-A Totem of Life is a new item that replaces the Totem of Undying.  If you hold a Totem of Life anywhere in your inventory, you gain two extra hearts.
+A Totem of Life is a new item that replaces the Totem of Undying.  If you hold a Totem of Life anywhere in your inventory, you gain three extra hearts.
 
 Enchanting
 ^^^^^^^^^^^
@@ -169,3 +170,51 @@ This mod adds several commands which let you find out which mods are installed o
 * /mods page <page_number> | Displays a page view of the mods list
 * /mods info <mod_id> | Displays detailed information about the specified mod
 * /mods search <query> <page_number> | Search for mods
+
+==================
+New Draft Wiki
+==================
+
+This wiki details all the various mods and tweaks on the Rekindled SMP.
+If the game behaves in ways you don't expect, it's likely detailed in the wiki.  Before asking the server owner about these things, it's good to check the wiki first.
+
+If you find a feature not documented here, feel free to contact the server owner about the inconsistency.
+
+.. note::
+
+   There is no information on how to join the server on this wiki.  Rekindled SMP is private and invite only.
+
+Rebalancing
+-------------
+
+These are things that affect the progression of Minecraft, and as such, these are the most essential features to understand.
+
+New Items
+""""""""""
+
+* Totem of Life:  Replaces the totem of undying.  Hold it anywhere in your inventory to gain 3 extra hearts!
+
+Removed Items
+""""""""""""""
+
+* All Netherite gear (except hoes)
+* Totems of Undying (replaced by Totems of Life, see below)
+* Potions of Poison, Strength, Harming and Healing
+
+New Recipes
+"""""""""""""
+
+* Chorus Flower:  Crafted from any flower and a Dragon's Breath
+* Chorus Fruit:  Crafted from an Apple and a Dragon's Breath
+* Shulker Box:  Crafted from a chest surrounded by Popped Chorus Fruit
+* Slimeball:  Crafted from Honey and Green Dye
+
+Enchanting
+""""""""""""
+
+Sharpness, Power, Protection, Projectile Protection, Unbreaking, Mending and Piercing enchantments are disabled. Fire Protection and Blast Protection are limited to level two.
+
+Tweaks
+""""""""
+
+* Items do not lose durability or break
