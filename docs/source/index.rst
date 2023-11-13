@@ -189,32 +189,27 @@ Rebalancing
 
 These are things that affect the progression of Minecraft, and as such, these are the most essential features to understand.
 
-New Items
-""""""""""
+**New Items**
 
 * Totem of Life:  Replaces the totem of undying.  Hold it anywhere in your inventory to gain 3 extra hearts!
 
-Removed Items
-""""""""""""""
+**Removed Items**
 
 * All Netherite gear (except hoes)
 * Totems of Undying (replaced by Totems of Life, see below)
 * Potions of Poison, Strength, Harming and Healing
 
-New Recipes
-"""""""""""""
+**New Recipes**
 
 * Chorus Flower:  Crafted from any flower and a Dragon's Breath
 * Chorus Fruit:  Crafted from an Apple and a Dragon's Breath
 * Shulker Box:  Crafted from a chest surrounded by Popped Chorus Fruit
 * Slimeball:  Crafted from Honey and Green Dye
 
-Enchanting
-""""""""""""
+**Enchanting**
 
 Sharpness, Power, Protection, Projectile Protection, Unbreaking, Mending and Piercing enchantments are disabled. Fire Protection and Blast Protection are limited to level two.
 
-Tweaks
-""""""""
+**Tweaks**
 
 * Items do not lose durability or break
