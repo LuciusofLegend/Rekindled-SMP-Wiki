@@ -33,6 +33,7 @@ New Recipes
 * Chorus Fruit:  Crafted from an Apple and a Dragon's Breath
 * Shulker Box:  Crafted from a chest surrounded by Popped Chorus Fruit
 * Slimeball:  Crafted from Honey and Green Dye
+* Name Tag:  Crafted with a string on top of a paper
 
 
 Totem of Life
@@ -147,8 +148,8 @@ Miscelanious tweaks and features.
 Worldborder
 ^^^^^^^^^^^^
 
-This worldborder is not a vanilla one.  It's added by a mod called Chunky Border.  The border is circular, and 10000 blocks wide.
-It is visualized by blue particles when you get close.  If you move outside the worldborder you will be teleported back outside immediately.
+This worldborder is not a vanilla one.  It's added by a mod called Chunky Border.  The border is circular, visualized by blue particles when you get close.
+If you move outside the worldborder you will be teleported back inside immediately.
 
 There is a:
 
